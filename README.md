@@ -21,6 +21,6 @@ Use maven
 - Received file integrity verification
 - Graphical User Interface
 
-## Screnshot
+## Screenshot
 ![Shot](./chat2.png)
 ![Shot](./chat1.png)
